@@ -4,6 +4,7 @@
 
 
 Para rodar o projeto na sua máquina, por favor digite:
+
 ```
-npm intall
+node app.js
 ```
